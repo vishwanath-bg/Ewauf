@@ -1,0 +1,124 @@
+2023-09-15 11:17:46,252 - INFO - ******************Backup Started******************
+2023-09-15 11:17:46,253 - INFO - current date: 2023-09-15 11:17:46.253635
+
+2023-09-15 11:17:46,264 - INFO - Backup up to date...
+2023-09-15 11:17:46,265 - INFO - ******************Backup Completed******************
+
+2023-09-15 11:17:48,938 - INFO - ####################################################################################################
+2023-09-15 11:17:48,939 - INFO - TEST CASE ID:: TC_1 || TEST CASE NAME:: START REDMINE SERVICE || START TIME:: 11:17:48AM on September 15, 2023
+2023-09-15 11:17:48,940 - INFO - ####################################################################################################
+2023-09-15 11:17:48,948 - INFO - Initiating connection to the remote machine located at 44.204.56.145
+2023-09-15 11:17:49,474 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-09-15 11:17:50,714 - INFO - Authentication (publickey) successful!
+2023-09-15 11:17:50,717 - INFO - Connected to Remote Machine at 44.204.56.145 >>>
+
+2023-09-15 11:17:50,718 - INFO - Checking the redmine service status...
+
+2023-09-15 11:17:51,638 - INFO - redmine service is already running
+
+2023-09-15 11:17:54,135 - INFO - ####################################################################################################
+2023-09-15 11:17:54,136 - INFO - TEST CASE ID:: TC_2 || TEST CASE NAME:: CREATE AND VERIFY REDMINE USER || START TIME:: 11:17:54AM on September 15, 2023
+2023-09-15 11:17:54,136 - INFO - ####################################################################################################
+2023-09-15 11:17:54,143 - INFO - Initiating connection to the remote machine located at 44.204.56.145
+2023-09-15 11:17:54,779 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-09-15 11:17:56,213 - INFO - Authentication (publickey) successful!
+2023-09-15 11:17:56,215 - INFO - Connected to Remote Machine at 44.204.56.145 >>>
+
+2023-09-15 11:17:56,217 - INFO - Checking the redmine service status...
+
+2023-09-15 11:17:57,156 - INFO - Initiating connection to the remote machine located at 44.204.56.145
+2023-09-15 11:17:57,750 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-09-15 11:17:59,012 - INFO - Authentication (publickey) successful!
+2023-09-15 11:17:59,013 - INFO - Connected to Remote Machine at 44.204.56.145 >>>
+
+2023-09-15 11:18:04,208 - INFO - ---- command execution completed ----
+
+2023-09-15 11:18:04,225 - INFO - Initiating connection to the remote machine located at 44.204.56.145
+2023-09-15 11:18:04,829 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-09-15 11:18:06,249 - INFO - Authentication (publickey) successful!
+2023-09-15 11:18:06,252 - INFO - Connected to Remote Machine at 44.204.56.145 >>>
+
+2023-09-15 11:18:06,254 - INFO - Checking the redmine service status...
+
+2023-09-15 11:18:07,076 - INFO - redmine service is running...
+2023-09-15 11:18:07,093 - INFO - Initiating connection to the remote machine located at 44.204.56.145
+2023-09-15 11:18:07,682 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-09-15 11:18:09,117 - INFO - Authentication (publickey) successful!
+2023-09-15 11:18:09,119 - INFO - Connected to Remote Machine at 44.204.56.145 >>>
+
+2023-09-15 11:18:14,337 - INFO - ---- command execution completed ----
+
+2023-09-15 11:18:19,464 - INFO - User: dhoni added SUCCESSFULLY
+
+2023-09-15 11:18:19,731 - INFO - The file TC_1.json already has read and write permissions
+
+2023-09-15 11:18:19,739 - INFO - The file TC_2.json already has read and write permissions
+
+2023-09-15 11:18:19,758 - INFO - JSON files have been merged into 'json_data_file.json'.
+
+2023-09-15 11:18:55,735 - INFO - ******************Backup Started******************
+2023-09-15 11:18:55,736 - INFO - current date: 2023-09-15 11:18:55.736338
+
+2023-09-15 11:18:55,744 - INFO - The file 'log_15_09_2023' was created before 0 days.
+
+2023-09-15 11:18:55,750 - ERROR - Error occured due to: [Errno 13] Permission denied: '/mnt/c/Users/vishw/Desktop/framework/ewau-framework/Ewauf/logs/log_15_09_2023' -> '/mnt/c/Users/vishw/Desktop/framework/ewau-framework/Ewauf/Logs_Backup/log_15_09_2023'
+2023-09-15 11:18:55,751 - ERROR - ******************Backup Failed******************
+
+2023-09-15 11:18:58,018 - INFO - ####################################################################################################
+2023-09-15 11:18:58,019 - INFO - TEST CASE ID:: TC_1 || TEST CASE NAME:: START REDMINE SERVICE || START TIME:: 11:18:58AM on September 15, 2023
+2023-09-15 11:18:58,019 - INFO - ####################################################################################################
+2023-09-15 11:18:58,029 - INFO - Initiating connection to the remote machine located at 44.204.56.145
+2023-09-15 11:18:58,656 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-09-15 11:19:00,110 - INFO - Authentication (publickey) successful!
+2023-09-15 11:19:00,116 - INFO - Connected to Remote Machine at 44.204.56.145 >>>
+
+2023-09-15 11:19:00,117 - INFO - Checking the redmine service status...
+
+2023-09-15 11:19:01,343 - INFO - redmine service is already running
+
+2023-09-15 11:19:03,801 - INFO - ####################################################################################################
+2023-09-15 11:19:03,801 - INFO - TEST CASE ID:: TC_2 || TEST CASE NAME:: CREATE AND VERIFY REDMINE USER || START TIME:: 11:19:03AM on September 15, 2023
+2023-09-15 11:19:03,802 - INFO - ####################################################################################################
+2023-09-15 11:19:03,812 - INFO - Initiating connection to the remote machine located at 44.204.56.145
+2023-09-15 11:19:04,520 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-09-15 11:19:06,048 - INFO - Authentication (publickey) successful!
+2023-09-15 11:19:06,050 - INFO - Connected to Remote Machine at 44.204.56.145 >>>
+
+2023-09-15 11:19:06,051 - INFO - Checking the redmine service status...
+
+2023-09-15 11:19:06,993 - INFO - Initiating connection to the remote machine located at 44.204.56.145
+2023-09-15 11:19:07,540 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-09-15 11:19:09,021 - INFO - Authentication (publickey) successful!
+2023-09-15 11:19:09,024 - INFO - Connected to Remote Machine at 44.204.56.145 >>>
+
+2023-09-15 11:19:14,205 - INFO - ---- command execution completed ----
+
+2023-09-15 11:19:15,165 - INFO - User_id with dhoni fetched SUCCESSFULLY.
+
+2023-09-15 11:19:16,586 - INFO - Users fetched SUCCESSFULLY
+
+2023-09-15 11:19:16,589 - INFO - User 'dhoni' with ID '12' SUCCESSFULLY deleted.
+
+2023-09-15 11:19:16,607 - INFO - Initiating connection to the remote machine located at 44.204.56.145
+2023-09-15 11:19:17,313 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-09-15 11:19:18,747 - INFO - Authentication (publickey) successful!
+2023-09-15 11:19:18,749 - INFO - Connected to Remote Machine at 44.204.56.145 >>>
+
+2023-09-15 11:19:18,751 - INFO - Checking the redmine service status...
+
+2023-09-15 11:19:19,570 - INFO - redmine service is running...
+2023-09-15 11:19:19,589 - INFO - Initiating connection to the remote machine located at 44.204.56.145
+2023-09-15 11:19:20,117 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-09-15 11:19:21,338 - INFO - Authentication (publickey) successful!
+2023-09-15 11:19:21,340 - INFO - Connected to Remote Machine at 44.204.56.145 >>>
+
+2023-09-15 11:19:26,419 - INFO - ---- command execution completed ----
+
+2023-09-15 11:19:31,587 - INFO - User: dhoni added SUCCESSFULLY
+
+2023-09-15 11:19:31,820 - INFO - The file TC_1.json already has read and write permissions
+
+2023-09-15 11:19:31,827 - INFO - The file TC_2.json already has read and write permissions
+
+2023-09-15 11:19:31,841 - INFO - JSON files have been merged into 'json_data_file.json'.
+

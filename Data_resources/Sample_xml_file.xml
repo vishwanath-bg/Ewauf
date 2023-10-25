@@ -1,0 +1,69 @@
+
+<?xml version="1.0"?>
+<?xml-stylesheet href="catalog.xsl" type="text/xsl"?>
+<!DOCTYPE catalog SYSTEM "catalog.dtd">
+<library>
+	<book id="1">
+		<title>The Catcher in the Rye</title>
+		<author>
+			<first_name>J.D.</first_name>
+			<last_name>Salinger</last_name>
+		</author>
+		<genre>Drama</genre>
+		<publication>
+			<publisher>Penguin Books</publisher>
+			<year>1951</year>
+			<location>
+				<city>New York</city>
+				<country>USA</country>
+			</location>
+		</publication>
+		<price currency="USD">14.99</price>
+		<availability>
+			<store>Books 'R' Us</store>
+			<stock>10</stock>
+		</availability>
+	</book>
+	<book id="2">
+		<title>To Kill a Mockingbird</title>
+		<author>
+			<first_name>Harper</first_name>
+			<last_name>Lee</last_name>
+		</author>
+		<genre>Classic</genre>
+		<publication>
+			<publisher>HarperCollins</publisher>
+			<year>1960</year>
+			<location>
+				<city>London</city>
+				<country>UK</country>
+			</location>
+		</publication>
+		<price currency="GBP">9.99</price>
+		<availability>
+			<store>Readers' Paradise</store>
+			<stock>5</stock>
+		</availability>
+	</book>
+	<book id="3">
+		<title>twostates</title>
+		<author>
+			<first_name>George</first_name>
+			<last_name>Orwell</last_name>
+		</author>
+		<genre>Dystopian</genre>
+		<publication>
+			<publisher>SeckerWarburg</publisher>
+			<year>1949</year>
+			<location>
+				<city>London</city>
+				<country>UK</country>
+			</location>
+		</publication>
+		<price currency="USD">12.50</price>
+		<availability>
+			<store>Bookworm's Haven</store>
+			<stock>8</stock>
+		</availability>
+	</book>
+</library>

@@ -1,0 +1,26 @@
+{
+    "TC_1": {
+        "tc_id": "TC_1",
+        "tc_name": "START REDMINE SERVICE",
+        "result": "PASS",
+        "remarks": "",
+        "tc_run_time": 3.34,
+        "tc_timestamp": "11:18:58AM on September 15, 2023",
+        "log": "/mnt/c/Users/vishw/Desktop/framework/ewau-framework/Ewauf/logs/log_15_09_2023/TC_Script.log"
+    },
+    "TC_2": {
+        "tc_id": "TC_2",
+        "tc_name": "CREATE AND VERIFY REDMINE USER",
+        "result": "PASS",
+        "remarks": "",
+        "tc_run_time": 27.8,
+        "tc_timestamp": "11:19:03AM on September 15, 2023",
+        "log": "/mnt/c/Users/vishw/Desktop/framework/ewau-framework/Ewauf/logs/log_15_09_2023/TC_Script.log"
+    },
+    "TestSuite_Data": {
+        "total_tc_count": 2,
+        "total_pass_count": 2,
+        "total_fail_count": 0,
+        "total_run_time": 31.14
+    }
+}

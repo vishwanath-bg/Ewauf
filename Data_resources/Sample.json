@@ -1,0 +1,22 @@
+{
+   "RLM": {
+     "UE": {
+       "0": "rrcReestablishmentRequest",
+       "1": "rrcReestablishmentComplete",
+       "2": "rrcReconfigurationComplete"
+     },
+     "MT": {
+       "0": "Sending RRC_PHY_OUT_OF_SYNC to L3",
+       "1": "Recvd RRC_MAC_DEL_SERV_CELL_REQ cmd_id:793 len:1 ret_val:0",
+       "2": "Recvd RRC_MAC_MEAS_ADD_CONTEXT_REQ cmd_id:781 len:168 ret_val:0",
+       "3": "RRC_PDCP_REESTABLISH_ENTITY_REQ received for 1 rbs Cmd Id(524)I",
+       "4": "RRC_PDCP_MODIFY_ENTITY_REQ received for bid:1 Cmd Id(526)",
+       "5": "RACH type:1 bExtn:1 len:0 pdu_len:16",
+       "6": "Successfully send RRC_MAC_RACH_IND with crnti[<any number>]",
+       "7": "RRC_PDCP_REESTABLISH_ENTITY_REQ received for 1 rbs Cmd Id(524)",
+       "8": "Sent PDCP REESTABLISH for RB_ID:5",
+       "9": "RRC_PDCP_RB_RESUME_REQ received for 2 rbs Cmd Id(522)",
+       "10": "Sent PDCP RESUME for RB_ID:5"
+     }
+   }
+}

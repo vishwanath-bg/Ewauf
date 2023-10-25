@@ -1,0 +1,10 @@
+matplotlib
+openpyxl
+pandas
+paramiko
+lxml
+pyyaml
+requests
+xmltodict
+jinja2
+
